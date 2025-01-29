@@ -1,0 +1,5 @@
+streamlit
+joblib
+scikit-learn  # If your model is from sklearn
+pandas
+numpy
